@@ -16,7 +16,7 @@ When I'm not untangling network cables or decoding AWS documentation, you can fi
 Remember: In my world, "404 Not Found" is just an invitation to build something new!
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/karthikbokkesam)
+- [LinkedIn](https://www.linkedin.com/in/karthik-bokkesam/)
 - [Personal Website](https://www.bkarthik.pro)
 
 ## Skills
